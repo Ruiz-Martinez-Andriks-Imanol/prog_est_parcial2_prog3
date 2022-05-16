@@ -1,17 +1,17 @@
-/* Autor: Andriks Imanol Ruiz Mártinez, Realizado: 24/03/2022
+/* Autor: Andriks Imanol Ruiz MÃ¡rtinez, Realizado: 24/03/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programación Estructrada
+Materia: ProgramaciÃ³n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de funciones, ciclos y condicionales en Lenguaje C de la materia de Programación Estructurada
+Este es un programa de funciones, ciclos y condicionales en Lenguaje C de la materia de ProgramaciÃ³n Estructurada
 Muestra el uso de:
   
     -Variables tipo enteros y flotantes
     -printf para mostrar mensajes y variables
     -scanf
-    -El uso de include para las librerías
-    -Uso de la librería math.h
-    -Arreglo por método de la burbuja
+    -El uso de include para las librerÃ­as
+    -Uso de la librerÃ­a math.h
+    -Arreglo por mÃ©todo de la burbuja
     -Ciclos
     -Contador
     -Condicionales
@@ -20,7 +20,7 @@ Muestra el uso de:
     -Prototipos
     -switch
     -#define MAX  para definir cierta cantidad para el arreglo
-    -Comentarios para la documentación interna del program
+    -Comentarios para la documentaciÃ³n interna del programa
 	*/
 #include<stdio.h>
 #include<stdlib.h>
