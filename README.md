@@ -20,6 +20,7 @@ Muestra el uso de:
     <li>Funciones</li>
     <li>Prototipos</li>
     <li>switch</li>
+    <li>System PAUSE</li>
     <li>#define MAX  para definir cierta cantidad para el arreglo</li>
     <li>Comentarios para la documentación interna del programa</li>
     </ul>
